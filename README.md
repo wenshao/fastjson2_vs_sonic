@@ -7,5 +7,6 @@ export GOPROXY=https://mirrors.aliyun.com/goproxy/,direct
 ./build-java.sh 
 ./run-go.sh 
 ./run-java.sh 
+./run-java_vec.sh 
 ```
 
