@@ -1,1 +1,1 @@
-java -cp .:lib/fastjson2-2.0.24.jar EishayTest
+java -cp .:lib/fastjson2-2.0.28.jar EishayTest
