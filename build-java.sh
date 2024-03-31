@@ -1,1 +1,1 @@
-javac -Xlint:unchecked -cp lib/fastjson2-2.0.38.jar *.java
+javac -Xlint:unchecked -cp lib/fastjson2-2.0.48.jar *.java
